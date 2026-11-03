@@ -1,0 +1,24 @@
+{
+  "name": "knowledge-skills",
+  "version": "0.1.0",
+  "description": "Harness-agnostic knowledge skills. /learn writes its guide to .knowledge/ of the open project.",
+  "author": {
+    "name": "knowledge-skills"
+  },
+  "keywords": [
+    "skills"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Knowledge Skills",
+    "shortDescription": "Harness-agnostic knowledge skills. /learn writes its guide to .knowledge/ of the open project.",
+    "longDescription": "Harness-agnostic knowledge skills. /learn writes its guide to .knowledge/ of the open project.",
+    "developerName": "knowledge-skills",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ]
+  }
+}

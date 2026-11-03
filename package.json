@@ -1,0 +1,15 @@
+{
+  "name": "knowledge-skills",
+  "version": "0.1.0",
+  "description": "Harness-agnostic knowledge skills. /learn writes its guide to .knowledge/ of the open project.",
+  "keywords": [
+    "skills"
+  ],
+  "scripts": {
+    "changeset": "changeset",
+    "version": "changeset version"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^3.0.3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Learn",
+      "description": "Desk research that writes a guide under .knowledge/ in the open project.",
+      "skills": ["learn"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "{{pluginName}}",
+  "description": "{{pluginDescription}}",
+  "version": "{{version}}",
+  "author": {
+    "name": "{{pluginName}}"
+  },
+  "keywords": [
+    "skills"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "knowledge-skills-dev",
+  "description": "Development marketplace for knowledge-skills",
+  "owner": {
+    "name": "knowledge-skills"
+  },
+  "plugins": [
+    {
+      "name": "knowledge-skills",
+      "description": "Harness-agnostic knowledge skills. /learn writes its guide to .knowledge/ of the open project.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "knowledge-skills"
+      }
+    }
+  ]
+}

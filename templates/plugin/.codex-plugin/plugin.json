@@ -1,0 +1,24 @@
+{
+  "name": "{{pluginName}}",
+  "version": "{{version}}",
+  "description": "{{pluginDescription}}",
+  "author": {
+    "name": "{{pluginName}}"
+  },
+  "keywords": [
+    "skills"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "{{displayName}}",
+    "shortDescription": "{{pluginDescription}}",
+    "longDescription": "{{pluginDescription}}",
+    "developerName": "{{pluginName}}",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ]
+  }
+}

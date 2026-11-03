@@ -1,0 +1,11 @@
+{
+  "name": "knowledge-skills",
+  "description": "Harness-agnostic knowledge skills. /learn writes its guide to .knowledge/ of the open project.",
+  "version": "0.1.0",
+  "author": {
+    "name": "knowledge-skills"
+  },
+  "keywords": [
+    "skills"
+  ]
+}

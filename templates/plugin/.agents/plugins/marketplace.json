@@ -1,0 +1,20 @@
+{
+  "name": "{{pluginName}}-dev",
+  "interface": {
+    "displayName": "{{displayName}} Dev"
+  },
+  "plugins": [
+    {
+      "name": "{{pluginName}}",
+      "source": {
+        "source": "url",
+        "url": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

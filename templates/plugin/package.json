@@ -1,0 +1,8 @@
+{
+  "name": "{{pluginName}}",
+  "version": "{{version}}",
+  "description": "{{pluginDescription}}",
+  "keywords": [
+    "skills"
+  ]
+}
